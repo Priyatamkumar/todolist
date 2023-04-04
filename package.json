@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 {
   "name": "todolist-v1",
   "version": "1.0.0",
@@ -21,4 +19,3 @@
     "mongoose": "^7.0.3"
   }
 }
->>>>>>> d423296 (add git ignore file and prockfile)

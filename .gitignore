@@ -1,8 +1,4 @@
 /node_modules
 npm-debug.log
 .DS_Store
-<<<<<<< HEAD
 /*.env
-=======
-/*.env
->>>>>>> d423296 (add git ignore file and prockfile)

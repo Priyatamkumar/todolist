@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 //jshint esversion:6
 
 const express = require("express");
@@ -157,4 +155,3 @@ if (port == null || port == "") {
 app.listen(port, function() {
   console.log("Server started on port 3000");
 });
->>>>>>> d423296 (add git ignore file and prockfile)
